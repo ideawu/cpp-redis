@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.a
+*.out
+*.class
+tmp
+.DS_Store
+*.pyc
+*.swp
+*.dSYM*
